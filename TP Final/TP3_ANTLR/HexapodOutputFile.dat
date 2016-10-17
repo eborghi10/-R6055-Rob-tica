@@ -1,0 +1,18 @@
+% HEXAPOD OUTPUT FILE 
+% Cargando valores por defecto 
+l1 3.9 
+l2 6.5 
+l3 14.2 
+half_length 14 
+half_width1 4.45 
+half_width2 7.2 
+legdist 12.5 
+h 2 
+X 1
+Y 1
+gait 2
+Z 10.0 
+dt 10 
+tick 1 
+stepCount 5 
+% END OF HEXAPOD OUTPUT FILE

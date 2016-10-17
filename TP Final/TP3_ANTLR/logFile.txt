@@ -1,0 +1,20 @@
+ABRIR CARPETAS:
+D:\UTN\Robótica\TP Final\Ejemplos\TP_Final Focaraccio Sokolowicz
+C:\Users\Emiliano Borghi\Desktop\Robotica TP Final
+-------------------------------------------------------------------------
+ARCHIVOS MATLAB:
+javaTest.m
+hexapodAnimation
+-------------------------------------------------------------------------
+ARCHIVOS GRAMMAR:
+robot.g
+HexapodRobot.g
+-------------------------------------------------------------------------
+DOCUMENTOS:
+TP Final - Sokolowicz Focaraccio.pdf
+-------------------------------------------------------------------------
+TODO:
+- Establecer comunicación directa con MATLAB. Ejecutar desde .jar.
+- Mejorar muestra de errores.
+- Terminar help manual.
+- Autocompletar en Run() cuando no se hayan ejecutado algunas funciones, usando variables bool por cada regla.

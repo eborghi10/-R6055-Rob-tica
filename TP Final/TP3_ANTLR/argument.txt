@@ -1,0 +1,4 @@
+new Hexapod( )
+Move(-1,-1)
+SetGait(Tripod)
+Run()

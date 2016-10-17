@@ -1,0 +1,5 @@
+new Hexapod(Phoenix)
+Move(0,1)
+Altura(10.0)
+SetGait(Tripod)
+Run()

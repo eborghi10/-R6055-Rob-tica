@@ -1,0 +1,5 @@
+% HEXAPOD OUTPUT FILE
+% Cargando valores por defecto
+3.9 6.5 14.2
+14 4.45 7.2 12.5 2 
+
